@@ -6,3 +6,5 @@
 Hello theree!
 
 ![](images/dog.jpg)
+
+[continue reading](blog)
