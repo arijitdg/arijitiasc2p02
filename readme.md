@@ -7,4 +7,6 @@ Hello theree!
 
 ![](images/dog.jpg)
 
+#Blog Post
+
 [continue reading](blog)
