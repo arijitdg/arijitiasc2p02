@@ -25,3 +25,14 @@ Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0fb3d34ee0fd355f46e134587ae5a7c0'></iframe>
 
 What Do You Mean was more well-liked by the public, because at the time, Bieber was more mature and the audiences were willing to accept perceiving him in the light of a grown adult. In the song “Baby” Justin was a young child and as a result, he received a lot of hate, primarily from males who were not willing to appreciate his talent, rather ridicule him for his sense of childishness. The purpose of this analysis, was to showcase the relationship between numerical data (the dislikes ratio) to the sort of reactions/opinions from the public. As it is clearly evident, in the song “Baby”, it was expected that the term “dislikes” would be popular because the video has a staggering amount of dislikes, and consequently, a perceived negative reaction for the most part.
+
+# Work Cited
+
+Liraz Margalit. “The Psychology Behind Social Media Interactions.” Psychology Today, Sussex Publishers, 29 Aug. 2014, 
+
+  www.psychologytoday.com/ca/blog/behind-online-behavior/201408/the-psychology-behind-social-media-interactions.
+  
+
+Kirschenbaum, Matthew. “What Is Digital Humanities and What’s It Doing in English Departments?” 
+
+  Debates in the Digital Humanities, dhdebates.gc.cuny.edu/debates/text/38.
