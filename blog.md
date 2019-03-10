@@ -14,4 +14,14 @@ it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=715326d85d5b5e51c0c51b59ea14ea22'></iframe>
 
-For the second video, I analyzed Justin Bieber’s recent hit single, “What Do You Mean”:https://voyant-tools.org/?corpus=0fb3d34ee0fd355f46e134587ae5a7c0&panels=cirrus,reader,trends,summary,contexts What Do You Mean was more well-liked by the public, because at the time, Bieber was more mature and the audiences were willing to accept perceiving him in the light of a grown adult. In the song “Baby” Justin was a young child and as a result, he received a lot of hate, primarily from males who were not willing to appreciate his talent, rather ridicule him for his sense of childishness. The purpose of this analysis, was to showcase the relationship between numerical data (the dislikes ratio) to the sort of reactions/opinions from the public. As it is clearly evident, in the song “Baby”, it was expected that the term “dislikes” would be popular because the video has a staggering amount of dislikes, and consequently, a perceived negative reaction for the most part.
+For the second video, I analyzed Justin Bieber’s recent hit single, “What Do You Mean”:
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0fb3d34ee0fd355f46e134587ae5a7c0'></iframe>
+
+What Do You Mean was more well-liked by the public, because at the time, Bieber was more mature and the audiences were willing to accept perceiving him in the light of a grown adult. In the song “Baby” Justin was a young child and as a result, he received a lot of hate, primarily from males who were not willing to appreciate his talent, rather ridicule him for his sense of childishness. The purpose of this analysis, was to showcase the relationship between numerical data (the dislikes ratio) to the sort of reactions/opinions from the public. As it is clearly evident, in the song “Baby”, it was expected that the term “dislikes” would be popular because the video has a staggering amount of dislikes, and consequently, a perceived negative reaction for the most part.
