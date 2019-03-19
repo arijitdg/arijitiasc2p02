@@ -10,3 +10,6 @@ Hello theree!
 # Blog Post
 
 [continue reading](blog)
+
+## Solo Presentation
+[Presentation Title](reveal/index.html)
