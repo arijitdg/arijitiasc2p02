@@ -22,9 +22,10 @@ My role in this project was to conduct the overview portion of the research, in 
 
 ![](images/overview.png)
 
-# Blog Post
+# Research Presentation
 
-[continue reading](blog)
+[The Future of Education](reveal/index.html)
 
-## Solo Presentation
-[Presentation Title](reveal/index.html)
+# Academic Blog
+
+["True" Human Interaction Can Be Measured From The Digital World](blog)
